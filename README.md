@@ -4,6 +4,18 @@
 
 ## Usage
 
+### Install
+
+#### 1.先安装vue项目依赖
+```bash
+  pnpm i
+```
+
+#### 2.再安装neutralino
+```bash
+  neu update
+```
+
 ### Development
 #### 1.先build vitesse项目
 ```bash
@@ -21,6 +33,6 @@
 
 ### Build
 ```bash
-pnpm neu:build
+  pnpm neu:build
 ```
 打包生成的可执行文件在/dist/项目名/里
